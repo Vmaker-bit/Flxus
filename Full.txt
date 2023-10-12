@@ -1,4 +1,4 @@
-local whitelisted = {3869450709, 3488907393} -- {UserID, UserID2, UserID3}
+local whitelisted = {569566070, 3488907393} -- {UserID, UserID2, UserID3}
  
 	for _, v in pairs(game.Players:GetChildren()) do
 	for i = 1, #whitelisted do
