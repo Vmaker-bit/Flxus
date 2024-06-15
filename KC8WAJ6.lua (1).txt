@@ -310,7 +310,7 @@ local function GK(...)
 		return hookmetamethod(...)
 	end
 end
-local TK = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))))()
+local TK = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
 local function JK()
 	local o = TK:CreateTab("Settings", "rbxassetid://\049\051\054\054\057\054\052\052\048\056\052")
 	o:CreateLabel("\194\169 Symphony Hub \050\048\050\050")
